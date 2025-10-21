@@ -1,6 +1,6 @@
 # Quiz for My Valentine
 
-A sweet and fun web-based quiz game for couples.
+A simple and sweet quiz game for couples.
 
 ## Features
 - Generate 1-25 questions with a cool spinner
