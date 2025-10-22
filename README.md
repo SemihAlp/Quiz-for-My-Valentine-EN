@@ -25,3 +25,19 @@ A simple and sweet quiz game for couples.
 - You can control the sound at any time with the sound on/off button at the top right of the screen.
 - Also, the sweet and romantic animations that continue throughout the game will increase your fun!
 - HAVE FUN! ♥
+
+<table>
+  <tr>
+    <td><img src="1.png" width="600"></td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="2.png" width="600"></td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
