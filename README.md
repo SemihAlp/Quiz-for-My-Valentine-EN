@@ -28,14 +28,14 @@ A simple and sweet quiz game for couples.
 
 <table>
   <tr>
-    <td><img src="1.png" width="600"></td>
+    <td><img src="1.png" width="850"></td>
   </tr>
   <tr>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="2.png" width="600"></td>
+    <td><img src="2.png" width="850"></td>
   </tr>
   <tr>
   </tr>
