@@ -26,4 +26,25 @@ A simple and sweet quiz game for couples.
 - Also, the sweet and romantic animations that continue throughout the game will increase your fun!
 - HAVE FUN! ♥
 
-- ## Gameplay Preview
+## Gameplay Preview
+
+<table>
+  <tr>
+    <td><img src="1.png" width="590"></td>
+    <td><img src="2.png" width="590></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">2</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="3.png" width="590"></td>
+    <td><img src="4.png" width="590"></td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">4</td>
+  </tr>
+</table>
