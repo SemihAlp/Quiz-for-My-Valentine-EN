@@ -30,7 +30,7 @@ A simple and sweet quiz game for couples.
 
 <table>
   <tr>
-    <td><img src="1.png" width="590"></td>
+    <td><img src="1.png" width="610"></td>
     <td><img src="2.png" width="590></td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ A simple and sweet quiz game for couples.
 <table>
   <tr>
     <td><img src="3.png" width="590"></td>
-    <td><img src="4.png" width="590"></td>
+    <td><img src="4.png" width="600"></td>
   </tr>
   <tr>
     <td align="center">3</td>
