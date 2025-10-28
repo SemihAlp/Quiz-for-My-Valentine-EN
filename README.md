@@ -48,3 +48,8 @@ A simple and sweet quiz game for couples.
     <td align="center">4</td>
   </tr>
 </table>
+
+# • Logo •
+
+![• Logo • ](image.png)
+The design of the logo was inspired by the metal band "Bullet for My Valentine".
