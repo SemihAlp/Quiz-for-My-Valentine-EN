@@ -19,7 +19,7 @@ A sweet and romantic web-based quiz game for couples.
 ## How to Play?
 - Use the spinner on the home screen to select between 1 and 25 questions.
 - Start creating your quiz with the number of questions you chose.
-- Enter the answer options and mark the correct one.
+- Enter the answer options and define the correct one.
 - Add a hint to your questions to help your partner out. ☻
 - When you're ready, share the quiz with your partner via WhatsApp or a direct link!
 - Your partner earns +1 point for every correct answer. There is no penalty for wrong answers.
