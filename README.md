@@ -23,7 +23,7 @@ A sweet and romantic web-based quiz game for couples.
 - Add a hint to your questions to help your partner out. ☻
 - When you're ready, share the quiz with your partner via WhatsApp or a direct link!
 - Your partner earns +1 point for every correct answer. There is no penalty for wrong answers.
-- Once finished, your partner will see a "Compatibility Analysis" card showing their score and how well you match. They can share these results back to you via WhatsApp or a link!
+- Once finished, your partner will see a "Compatibility Analysis" card showing their score and how well you match. This card can be shared with you via WhatsApp or direct link!
 - Your partner can retake the quiz using the "Play Again" button.
 - You can view the score on the shared result card, or use the button on the card to create a brand new quiz yourself.
 - You can toggle the sound anytime using the button in the top-right corner.
