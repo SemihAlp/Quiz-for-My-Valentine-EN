@@ -29,3 +29,6 @@ A sweet and romantic web-based quiz game for couples.
 - You can toggle the sound anytime using the button in the top-right corner.
 - Plus, enjoy cute and romantic animations throughout the game to double the fun!
 - HAVE FUN! ♥
+
+## Gameplay Preview:
+
