@@ -32,3 +32,8 @@ A sweet and romantic web-based quiz game for couples.
 
 ## Gameplay Preview:
 
+
+# • Logo •
+
+![• Logo • ](logo.png)
+
