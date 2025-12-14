@@ -41,6 +41,9 @@ A sweet and romantic web-based quiz game for couples.
     <td><img src="3.png" width="600"></td>
     <td><img src="4.png" width="600"></td>    
   </tr>
+  <tr>
+    <td><img src="5.png" width="600"></td>
+  </tr>
   
 </table>
 
