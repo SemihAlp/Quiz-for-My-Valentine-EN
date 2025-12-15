@@ -30,7 +30,7 @@ A sweet and romantic web-based quiz game for couples.
 - Plus, enjoy cute and romantic animations throughout the game to double the fun!
 - HAVE FUN! ♥
 
-## Gameplay Preview:
+## Gameplay Preview
 
 <table>
   <tr>
