@@ -58,4 +58,9 @@ A sweet and romantic web-based quiz game for couples.
 The design of the logo was inspired by the metal band "Bullet for My Valentine".
 
 ## Why GitHub Pages?
-
+- Free: GitHub Pages is completely free
+- Fast: Runs directly in the browser with no server latency
+- Secure: No personal data is stored
+- Easy: Deployment is simple since it’s a single HTML file
+- SSL: Automatic HTTPS certificate
+- Reliable: Powered by GitHub’s infrastructure
