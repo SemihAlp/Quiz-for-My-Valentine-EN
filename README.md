@@ -1,7 +1,7 @@
 # Quiz-for-My-Valentine-EN
 A sweet and romantic web-based quiz game for couples.
 
-🔗 **Create your first test!:** https://semihalp.github.io/Quiz-for-My-Valentine-EN/
+🔗 **Create your first quiz!:** https://semihalp.github.io/Quiz-for-My-Valentine-EN/
 
 ## Features
 - Generate 1-25 questions with a cool spinner
