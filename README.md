@@ -56,3 +56,6 @@ A sweet and romantic web-based quiz game for couples.
 
 ![• Logo • ](logo.png)
 The design of the logo was inspired by the metal band "Bullet for My Valentine".
+
+## Why GitHub Pages?
+
