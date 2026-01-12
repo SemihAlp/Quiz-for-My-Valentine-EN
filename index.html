@@ -869,7 +869,7 @@
 
     document.getElementById("shareWhatsAppBtn").addEventListener('click', () => {
       const link = shareQuizLink();
-      const message = `I prepared a ${totalQuestions}-question quiz especially for you! 💕 ${link}`;
+      const message = `I prepared a ${totalQuestions}-question quiz especially for you! ${link}`;
       window.open(`https://wa.me/?text=${encodeURIComponent(message)}`, '_blank');
     });
 
@@ -890,7 +890,7 @@
     document.getElementById("shareResultWhatsAppBtn").addEventListener('click', () => {
       const link = shareResultLink(quizScore, userQuestions.length);
       const percentage = Math.round((quizScore / userQuestions.length) * 100);
-      const message = `My quiz result: Compatibility ${percentage}% (${quizScore}/${userQuestions.length} correct!) 🎯 ${link}`;
+      const message = `My quiz result: Compatibility ${percentage}% (${quizScore}/${userQuestions.length} correct!) ${link}`;
       window.open(`https://wa.me/?text=${encodeURIComponent(message)}`, '_blank');
     });
 
@@ -1121,5 +1121,6 @@
   </script>
 
 </body>
+
 
 </html>
