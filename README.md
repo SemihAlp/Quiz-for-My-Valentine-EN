@@ -48,8 +48,7 @@ A sweet and romantic web-based quiz game for couples.
     <tr>
     <td><img src="7.png" width="600"></td>
     <td><img src="8.png" width="600"></td>
-  </tr>
-  
+  </tr>  
 </table>
 
 # • Logo •
